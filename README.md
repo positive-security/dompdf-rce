@@ -1,6 +1,7 @@
 # RCE exploit for dompdf <= 1.2.0
 
 This repository contains a vulnerable demo application using dompdf 1.2.0 and an exploit that achieves remote code execution via a ttf+php polyglot file.
+
 For more details, please visit https://positive.security/blog/dompdf-rce
 
 ## Instructions
