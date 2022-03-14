@@ -4,6 +4,8 @@ This repository contains a vulnerable demo application using dompdf 1.2.0 and an
 
 For more details, please visit https://positive.security/blog/dompdf-rce
 
+![Exploit Overview](exploit/overview.png)
+
 ## Instructions
 
 1. Run the demo application
