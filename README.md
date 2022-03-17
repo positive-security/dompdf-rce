@@ -6,6 +6,13 @@ This repository contains a vulnerable demo application using dompdf 1.2.0 and an
 
 For more details, please visit https://positive.security/blog/dompdf-rce
 
+## Setup Instruction on Ubuntu
+
+- sudo apt install php7.4-cli
+- sudo apt-get install php-mbstring
+- sudo apt-get install php-dom
+- sudo apt-get install php7.4-gd
+
 ## Instructions
 
 1. Run the demo application
